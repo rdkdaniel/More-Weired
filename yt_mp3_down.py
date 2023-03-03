@@ -1,3 +1,5 @@
+#Works but takes forever to download
+#Should add progress and status bar/indicator
 #pip install pytube
 from pytube import YouTube
 import os
